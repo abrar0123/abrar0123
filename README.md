@@ -1,28 +1,27 @@
-Hi 👋, I'm Abrar Hussain
-A passionate frontend developer from Pakistan
-abrar0123
+   # Hi, I'm Abrar Hussain 👋
 
-abrar0123
+I'm an experienced **MERN Stack** and **React Native Developer** with a passion for building scalable, user-friendly applications. I love working on challenging projects and contributing to open source.
 
-abrar hussain
+## 🛠️ Technologies & Tools
 
-🔭 I’m currently working extensively with JavaScript, specializing in React Native development
+- **Frontend**: React.js, Next.js, Redux, Tailwind CSS, Material-UI
+- **Backend**: Node.js, Express.js, MongoDB, REST APIs, GraphQL
+- **Mobile**: React Native, Expo
+- **DevOps**: Docker, AWS, CI/CD pipelines
+- **Tools**: Git, Postman, VS Code, Figma
 
-🌱 I’m continuously honing my skills in TypeScript and deepening my knowledge of React Native
+## 🔥 Featured Projects
 
-👯 I’m currently collaborating with the most experienced React Native team, contributing to Front-end projects
+- [E-Commerce Platform](https://github.com/abrarhussain/ecommerce-platform) - A full-stack e-commerce app built with MERN stack.
+- [Task Manager App](https://github.com/abrarhussain/task-manager) - A React Native app for managing daily tasks.
+- [Blogging Platform](https://github.com/abrarhussain/blogging-platform) - A blogging platform with user authentication and CRUD operations.
 
-💬 Feel free to ask me anything about JavaScript or Android development in React Native.
+## 📈 GitHub Stats
 
-📫 How to reach me 
-⚡ Fun fact I am working on front-end development
-Connect with me:
+![Abrar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrar0123&show_icons=true&theme=radical)
 
-Languages and Tools:
-bootstrap cplusplus csharp css3 html5 javascript mongodb mysql photoshop reactnative
+## 📫 Let's Connect
 
-abrar-it
-
- abrar
-
-
+- [LinkedIn](https://www.linkedin.com/in/abrar-hussain786)
+- [Portfolio Website](https://abrar-0123.netlify.app)
+- Email: ibrar.ite@gmail.com
